@@ -54,3 +54,26 @@ h1 {
   background-color: #e0e0e0;
   transform: scaleY(0.97);
 }
+
+#startBtn {
+  background-color: #e94560;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+  transition: all 0.3s;
+}
+
+#startBtn:hover {
+  background-color: #c73652;
+  transform: scale(1.05);
+}
+
+#startBtn:active {
+  transform: scale(0.98);
+}
