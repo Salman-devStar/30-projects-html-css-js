@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Piano App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>🎹 Piano</h1>
+      <div class="piano">
+        <div class="key" data-note="C" onmouseover="playNote(261.63, this)">
+          C
+        </div>
+        <div class="key" data-note="D" onmouseover="playNote(293.66, this)">
+          D
+        </div>
+        <div class="key" data-note="E" onmouseover="playNote(329.63, this)">
+          E
+        </div>
+        <div class="key" data-note="F" onmouseover="playNote(349.23, this)">
+          F
+        </div>
+        <div class="key" data-note="G" onmouseover="playNote(392.0, this)">
+          G
+        </div>
+        <div class="key" data-note="A" onmouseover="playNote(440.0, this)">
+          A
+        </div>
+        <div class="key" data-note="B" onmouseover="playNote(493.88, this)">
+          B
+        </div>
+        <div class="key" data-note="C2" onmouseover="playNote(523.25, this)">
+          C
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
