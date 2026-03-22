@@ -53,5 +53,8 @@ HTML | CSS | JavaScript
 
 ## Connect
 
-LinkedIn: [Your LinkedIn]
-Twitter: [Your Twitter]
+## Connect
+
+LinkedIn: [Muhammad Salman](https://www.linkedin.com/in/muhammad-salmann-297b2b363/)
+Twitter: [m_salman1274](https://x.com/m_salman1274)
+GitHub: [Salman-devStar](https://github.com/Salman-devStar)
