@@ -11,12 +11,12 @@ Built in public as part of my #90DaysOfCode journey.
 ## Projects List
 
 | Day | Project                    | Live Demo                                                 |
-| --- | -------------------------- | --------------------------------------------------------- | --- |
+| --- | -------------------------- | --------------------------------------------------------- |
 | 01  | Speech to Text             | [Live](https://teal-beijinho-bffa09.netlify.app)          |
 | 02  | Piano Application          | [Live](https://salman-devstar-pianoapp.netlify.app)       |
 | 03  | Text to Voice              | [Live](https://salman-devstar-text-to-voice.netlify.app)  |
-| 04  | Robot Joke Generator       | [Live](https://salman-devstar-joke-generator.netlify.app) |     |
-| 05  | HSL Color Generator        | [Live]()                                                  |
+| 04  | Robot Joke Generator       | [Live](https://salman-devstar-joke-generator.netlify.app) |
+| 05  | HSL Color Generator        | [Live](https://salman-hsl-color-gen.netlify.app)          |
 | 06  | Modal Application          | [Live]()                                                  |
 | 07  | Digital Clock              | [Live]()                                                  |
 | 08  | Color Flipper              | [Live]()                                                  |
