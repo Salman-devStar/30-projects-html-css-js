@@ -19,7 +19,7 @@ Built in public as part of my #90DaysOfCode journey.
 | 05  | HSL Color Generator        | [Live](https://salman-hsl-color-gen.netlify.app)          |
 | 06  | Modal Application          | [Live](https://salman-modal-pop-up.netlify.app)           |
 | 07  | Digital Clock              | [Live](https://salman-digital-clock.netlify.app)          |
-| 08  | Color Flipper              | [Live]()                                                  |
+| 08  | Color Flipper              | [Live](https://salman-color-flipper.netlify.app)          |
 | 09  | Percentage Calculator      | [Live]()                                                  |
 | 10  | Calculator                 | [Live]()                                                  |
 | 11  | Read More Less             | [Live]()                                                  |
