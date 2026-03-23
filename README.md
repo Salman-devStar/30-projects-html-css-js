@@ -18,7 +18,7 @@ Built in public as part of my #90DaysOfCode journey.
 | 04  | Robot Joke Generator       | [Live](https://salman-devstar-joke-generator.netlify.app) |
 | 05  | HSL Color Generator        | [Live](https://salman-hsl-color-gen.netlify.app)          |
 | 06  | Modal Application          | [Live](https://salman-modal-pop-up.netlify.app)           |
-| 07  | Digital Clock              | [Live]()                                                  |
+| 07  | Digital Clock              | [Live](https://salman-digital-clock.netlify.app)          |
 | 08  | Color Flipper              | [Live]()                                                  |
 | 09  | Percentage Calculator      | [Live]()                                                  |
 | 10  | Calculator                 | [Live]()                                                  |
